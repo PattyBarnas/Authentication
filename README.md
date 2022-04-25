@@ -1,2 +1,2 @@
 # Authentication
-Practicing Authentication with JS frameworks: Encrypting, Hashing, Salting, cookies and sessions
+Practicing Authentication with JS frameworks: Google Authentication, Encrypting, Hashing, Salting, cookies and sessions
